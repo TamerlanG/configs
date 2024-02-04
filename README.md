@@ -1,4 +1,6 @@
-## Config
+## Config [deprecated]
+
+Go to https://github.com/TamerlanG/dotfiles
 
 ### Setting up tmux
 
